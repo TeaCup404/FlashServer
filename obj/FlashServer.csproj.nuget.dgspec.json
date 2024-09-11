@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\gabi0\\Desktop\\FlashServer\\FlashServer\\FlashServer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\gabi0\\Desktop\\FlashServer\\FlashServer\\FlashServer.csproj": {
+      "version": "1.0.1",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gabi0\\Desktop\\FlashServer\\FlashServer\\FlashServer.csproj",
+        "projectName": "FlashServer",
+        "projectPath": "C:\\Users\\gabi0\\Desktop\\FlashServer\\FlashServer\\FlashServer.csproj",
+        "packagesPath": "C:\\Users\\gabi0\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gabi0\\Desktop\\FlashServer\\FlashServer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gabi0\\Desktop\\NuGet.Config",
+          "C:\\Users\\gabi0\\NuGet.Config",
+          "C:\\Users\\gabi0\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Users\\gabi0\\Desktop\\offline-packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "automapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.417\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

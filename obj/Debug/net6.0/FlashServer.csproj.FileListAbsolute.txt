@@ -1,0 +1,12 @@
+C:\Users\gabi0\Desktop\FlashServer\FlashServer\bin\Debug\net6.0\FlashServer.deps.json
+C:\Users\gabi0\Desktop\FlashServer\FlashServer\bin\Debug\net6.0\FlashServer.dll
+C:\Users\gabi0\Desktop\FlashServer\FlashServer\bin\Debug\net6.0\FlashServer.pdb
+C:\Users\gabi0\Desktop\FlashServer\FlashServer\obj\Debug\net6.0\FlashServer.csproj.AssemblyReference.cache
+C:\Users\gabi0\Desktop\FlashServer\FlashServer\obj\Debug\net6.0\FlashServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabi0\Desktop\FlashServer\FlashServer\obj\Debug\net6.0\FlashServer.AssemblyInfoInputs.cache
+C:\Users\gabi0\Desktop\FlashServer\FlashServer\obj\Debug\net6.0\FlashServer.AssemblyInfo.cs
+C:\Users\gabi0\Desktop\FlashServer\FlashServer\obj\Debug\net6.0\FlashServer.csproj.CoreCompileInputs.cache
+C:\Users\gabi0\Desktop\FlashServer\FlashServer\obj\Debug\net6.0\FlashServer.dll
+C:\Users\gabi0\Desktop\FlashServer\FlashServer\obj\Debug\net6.0\refint\FlashServer.dll
+C:\Users\gabi0\Desktop\FlashServer\FlashServer\obj\Debug\net6.0\FlashServer.pdb
+C:\Users\gabi0\Desktop\FlashServer\FlashServer\obj\Debug\net6.0\ref\FlashServer.dll
